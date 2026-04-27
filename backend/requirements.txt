@@ -1,0 +1,8 @@
+Django==4.2.7
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.0
+django-cors-headers==4.3.0
+channels==4.0.0
+daphne==4.0.0
+django-filter==23.3
+# Pillow removed - not supported on Python 3.14 without C compiler
